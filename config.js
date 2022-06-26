@@ -55,20 +55,20 @@ global.APIKeys = {
 
 // Other
 
-global.namabot = 'ipang botz'
+global.namabot = 'juntak botz'
 
-global.namaowner = 'IPANG STORE'
+global.namaowner = 'JUNTAK STORE'
 
-global.myweb = 'https://youtube.com/channel/UCvrivTo2m56JpBccnenbI_A'
-
-
-global.owner = [ '6282136031499' ]
+global.myweb = 'https://youtube.com/channel/UCY4nbtW5ZCEmADh5TB3vopA'
 
 
-global.premium = ['6282136031489']
+global.owner = [ '6288708439726' ]
 
 
-global.packname = 'Kayes Gemoyyy'
+global.premium = ['6288708439726']
+
+
+global.packname = 'Jun Gemoyyy'
 
 
 global.author = 'WhatsApp Bot'
@@ -122,7 +122,7 @@ global.limitawal = {
     premium: "Infinity",
 
 
-    free: 100
+    free: 200
 
 
 }
